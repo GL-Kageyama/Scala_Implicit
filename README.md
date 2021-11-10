@@ -1,4 +1,6 @@
 # Scala Implicit Conversions and Parameters
+Implicit type conversion can reduce the declaration of explicit type conversion from one shoulder to the other.  
+The Scala compiler implicitly supplements the parameters and completes the function call.  
 
 ## Conversion to Requested Type
 ```Scala
